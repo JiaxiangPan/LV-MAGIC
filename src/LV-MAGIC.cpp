@@ -26,6 +26,7 @@
 #include <alice/alice.hpp>
 #include "commands/veriMAGIC.hpp"
 #include "commands/logic_mapping.hpp"
+#include "commands/n2v.hpp"
 
 
 ALICE_MAIN(LV-MAGIC)
