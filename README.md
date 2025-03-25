@@ -40,3 +40,11 @@ C. K. Jha et al., "veriSIMPLER: An Automated Formal Verification Methodology for
 [https://github.com/debjyoti0891/arche]
 
 [https://github.com/MionaSHEN/Staircase-Mapping-S]
+
+##
+The code may contain some bugs, and contributions are welcome! Thank you.
+
+## Copyright
+![NBULSI](NBULSI.jpg)
+
+© 2025 [NBU LSI]. All rights reserved.
