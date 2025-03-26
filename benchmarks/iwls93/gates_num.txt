@@ -1,0 +1,200 @@
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/vg2.v
+总共包含 nor2 的行数: 206
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 167
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 373
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/sao2.v
+总共包含 nor2 的行数: 188
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 126
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 314
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/rd73.v
+总共包含 nor2 的行数: 273
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 153
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 426
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/e64.v
+总共包含 nor2 的行数: 583
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 584
+总共包含 buf 的行数: 1
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 1168
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/duke2.v
+总共包含 nor2 的行数: 386
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 316
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 702
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/clip.v
+总共包含 nor2 的行数: 297
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 191
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 488
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/apex5.v
+总共包含 nor2 的行数: 767
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 527
+总共包含 buf 的行数: 3
+总共包含 zero 的行数: 3
+总共包含 one 的行数: 0
+总共的 gates_num: 1300
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/9sym.v
+总共包含 nor2 的行数: 277
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 182
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 459
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/misex3c.v
+总共包含 nor2 的行数: 534
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 223
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 757
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/inc.v
+总共包含 nor2 的行数: 96
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 36
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 132
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/vg2.v
+总共包含 nor2 的行数: 206
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 167
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 373
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/sao2.v
+总共包含 nor2 的行数: 188
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 126
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 314
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/rd73.v
+总共包含 nor2 的行数: 273
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 153
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 426
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/e64.v
+总共包含 nor2 的行数: 583
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 584
+总共包含 buf 的行数: 1
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 1168
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/duke2.v
+总共包含 nor2 的行数: 386
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 316
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 702
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/clip.v
+总共包含 nor2 的行数: 297
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 191
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 488
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/apex5.v
+总共包含 nor2 的行数: 767
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 527
+总共包含 buf 的行数: 3
+总共包含 zero 的行数: 3
+总共包含 one 的行数: 0
+总共的 gates_num: 1300
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/9sym.v
+总共包含 nor2 的行数: 277
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 182
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 459
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/misex3c.v
+总共包含 nor2 的行数: 534
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 223
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 757
+统计文件：/home/pjx/simpler_benchmark/SMACD24_netlist/iwls93/inc.v
+总共包含 nor2 的行数: 96
+总共包含 nor3 的行数: 0
+总共包含 nor4 的行数: 0
+总共包含 nor5 的行数: 0
+总共包含 inv1 的行数: 36
+总共包含 buf 的行数: 0
+总共包含 zero 的行数: 0
+总共包含 one 的行数: 0
+总共的 gates_num: 132

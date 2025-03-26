@@ -1,0 +1,1 @@
+The netlist obtained by running abc:​resyn, ​resyn2, and ​resyn2rs.
