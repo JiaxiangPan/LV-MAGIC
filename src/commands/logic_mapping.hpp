@@ -30,7 +30,7 @@ namespace alice
   {
   public:
     explicit logicmapping_command(const environment::ptr &env)
-        : command(env, "A logic mapping tool for MAGIC-based in-memory computing\n[i]uagae: magic -f filename -s -r row_size OR magic -f filename -S")
+        : command(env, "A logic mapping tool for MAGIC-based in-memory computing\n[i]uagae: logicmapping -f filename -s -r row_size OR logicmapping -f filename -S")
     {
       add_option( "filename, -f", netlist_filename, "Netlist file described in text format" );
       add_option( "rowSize, -r", row_size, "Size of the RRAM crossbar array" );
