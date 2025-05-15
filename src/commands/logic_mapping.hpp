@@ -30,7 +30,7 @@ namespace alice
   {
   public:
     explicit logicmapping_command(const environment::ptr &env)
-        : command(env, "A logic mapping tool for MAGIC-based in-memory computing\n[i]uagae: logicmapping -f filename -s -r row_size OR logicmapping -f filename -S OR logicmapping -f filename -d -r row_size")
+        : command(env, "A logic mapping tool for MAGIC-based in-memory computing\n[i]usage: logicmapping -f filename -s -r row_size OR logicmapping -f filename -S OR logicmapping -f filename -d -r row_size")
     {
       add_option( "filename, -f", netlist_filename, "Netlist file described in text format" );
       add_option( "rowSize, -r", row_size, "Size of the RRAM crossbar array" );
@@ -133,7 +133,7 @@ namespace alice
         else
         {
             std::cout << "[Error] This mapping_model does not exist\n";
-		    // std::cout << "[i]uagae: magic filename -simpler row_size OR magic filename -simplest\n";
+		    // std::cout << "[i]usage: magic filename -simpler row_size OR magic filename -simplest\n";
 		    return;
         }
 

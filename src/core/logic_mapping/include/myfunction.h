@@ -132,14 +132,14 @@ static std::string get_home_dir()
 
 static void show_tool_info( bool is_show = false )
 {
-    std::cout<<"/-------------------------------------------------------------------------------\\"<<std::endl;
-    std::cout<<"|   Logic Synthesis and Verification Tool for MAGIC based In-memory Computing   |"<<std::endl;
-    std::cout<<"|                                                                               |"<<std::endl;
-    std::cout<<"|   Copyright (c) 2022-2025 Ningbo University, China.                           |"<<std::endl;
-    std::cout<<"|                                                                               |"<<std::endl;
-    std::cout<<"|   You can find it at: https://gitee.com/panjiaxiang7/magic.git                |"<<std::endl;
-    std::cout<<"|   Contact us at panjiaxiang7@163.com                                          |"<<std::endl;
-    std::cout<<"\\-------------------------------------------------------------------------------/"<<std::endl;
+    std::cout<<"\033[49;32m/-------------------------------------------------------------------------------\\\033[0m"<<std::endl;
+    std::cout<<"\033[49;32m|   Logic Synthesis and Verification Tool for MAGIC based In-memory Computing   |\033[0m"<<std::endl;
+    std::cout<<"\033[49;32m|                                                                               |\033[0m"<<std::endl;
+    std::cout<<"\033[49;32m|   Copyright (c) 2022-2025 Ningbo University, China.                           |\033[0m"<<std::endl;
+    std::cout<<"\033[49;32m|                                                                               |\033[0m"<<std::endl;
+    std::cout<<"\033[49;32m|   You can find it at: https://gitee.com/panjiaxiang7/magic.git                |\033[0m"<<std::endl;
+    std::cout<<"\033[49;32m|   Contact us at panjiaxiang7@163.com                                          |\033[0m"<<std::endl;
+    std::cout<<"\033[49;32m\\-------------------------------------------------------------------------------/\033[0m"<<std::endl;
     std::cout<<std::endl;
 }
 
